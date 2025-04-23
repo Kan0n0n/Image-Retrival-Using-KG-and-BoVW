@@ -1,0 +1,687 @@
+Class:  Aircraft
+Precision:  0.8776223776223776
+Recall:  0.9083232810615199
+False Positive Rate:  0.0010887146945377628
+True Positive:  753
+False Positive:  105
+Total:  829
+Output:  858
+__________________________________________________
+Class:  Animal
+Precision:  0.901511457825451
+Recall:  0.19276480400333612
+False Positive Rate:  0.0023038058416304558
+True Positive:  1849
+False Positive:  202
+Total:  9592
+Output:  2051
+__________________________________________________
+Class:  Auto part
+Precision:  0.6525511975008678
+Recall:  0.7312329832749903
+False Positive Rate:  0.021729928037251305
+True Positive:  3760
+False Positive:  2002
+Total:  5142
+Output:  5762
+__________________________________________________
+Class:  Baked goods
+Precision:  0.8090349075975359
+Recall:  0.4718562874251497
+False Positive Rate:  0.0009643501524295402
+True Positive:  394
+False Positive:  93
+Total:  835
+Output:  487
+__________________________________________________
+Class:  Ball
+Precision:  0.7374749498997996
+Recall:  0.696969696969697
+False Positive Rate:  0.0013540751460023774
+True Positive:  368
+False Positive:  131
+Total:  528
+Output:  499
+__________________________________________________
+Class:  Bathroom accessory
+Precision:  0.5178571428571429
+Recall:  0.3918918918918919
+False Positive Rate:  0.00027778063560324694
+True Positive:  29
+False Positive:  27
+Total:  74
+Output:  56
+__________________________________________________
+Class:  Bear
+Precision:  0.7266666666666667
+Recall:  0.6728395061728395
+False Positive Rate:  0.0004221972794019215
+True Positive:  109
+False Positive:  41
+Total:  162
+Output:  150
+__________________________________________________
+Class:  Bed
+Precision:  0.5354330708661418
+Recall:  0.7756653992395437
+False Positive Rate:  0.0018245541696732296
+True Positive:  204
+False Positive:  177
+Total:  263
+Output:  381
+__________________________________________________
+Class:  Beetle
+Precision:  0.8046875
+Recall:  0.6959459459459459
+False Positive Rate:  0.0002574002574002574
+True Positive:  103
+False Positive:  25
+Total:  148
+Output:  128
+__________________________________________________
+Class:  Bird
+Precision:  0.9147557328015952
+Recall:  0.8964338055691256
+False Positive Rate:  0.001795728057463298
+True Positive:  1835
+False Positive:  171
+Total:  2047
+Output:  2006
+__________________________________________________
+Class:  Boat
+Precision:  0.7767145135566188
+Recall:  0.9240986717267552
+False Positive Rate:  0.004389081636918446
+True Positive:  1461
+False Positive:  420
+Total:  1581
+Output:  1881
+__________________________________________________
+Class:  Building
+Precision:  0.6971125896259932
+Recall:  0.8700419219606579
+False Positive Rate:  0.05524985565989937
+True Positive:  10792
+False Positive:  4689
+Total:  12404
+Output:  15481
+__________________________________________________
+Class:  Car
+Precision:  0.8087472201630838
+Recall:  0.9189690026954178
+False Positive Rate:  0.01412352058858951
+True Positive:  5455
+False Positive:  1290
+Total:  5936
+Output:  6745
+__________________________________________________
+Class:  Carnivore
+Precision:  0.9334493257938234
+Recall:  0.8824013157894737
+False Positive Rate:  0.0016132263472548793
+True Positive:  2146
+False Positive:  153
+Total:  2432
+Output:  2299
+__________________________________________________
+Class:  Clock
+Precision:  0.9444444444444444
+Recall:  0.2786885245901639
+False Positive Rate:  5.1563402359541295e-05
+True Positive:  85
+False Positive:  5
+Total:  305
+Output:  90
+__________________________________________________
+Class:  Clothing
+Precision:  0.8410331438861066
+Recall:  0.8216602528862013
+False Positive Rate:  0.09278570607458986
+True Positive:  29892
+False Positive:  5650
+Total:  36380
+Output:  35542
+__________________________________________________
+Class:  Container
+Precision:  0.6909600560616679
+Recall:  0.5595913734392736
+False Positive Rate:  0.004617269215064233
+True Positive:  986
+False Positive:  441
+Total:  1762
+Output:  1427
+__________________________________________________
+Class:  Cosmetics
+Precision:  0.6410256410256411
+Recall:  0.43859649122807015
+False Positive Rate:  0.0002881874041519571
+True Positive:  50
+False Positive:  28
+Total:  114
+Output:  78
+__________________________________________________
+Class:  Couch
+Precision:  0.5189393939393939
+Recall:  0.5018315018315018
+False Positive Rate:  0.001309278350515464
+True Positive:  137
+False Positive:  127
+Total:  273
+Output:  264
+__________________________________________________
+Class:  Dairy Product
+Precision:  0.4742268041237113
+Recall:  0.27218934911242604
+False Positive Rate:  0.0005252100840336134
+True Positive:  46
+False Positive:  51
+Total:  169
+Output:  97
+__________________________________________________
+Class:  Dessert
+Precision:  0.8357348703170029
+Recall:  0.3589108910891089
+False Positive Rate:  0.0005908878867983207
+True Positive:  290
+False Positive:  57
+Total:  808
+Output:  347
+__________________________________________________
+Class:  Door
+Precision:  0.5679012345679012
+Recall:  0.5897435897435898
+False Positive Rate:  0.0036272061185785498
+True Positive:  460
+False Positive:  350
+Total:  780
+Output:  810
+__________________________________________________
+Class:  Drink
+Precision:  0.8535414165666266
+Recall:  0.3923841059602649
+False Positive Rate:  0.001278008820355957
+True Positive:  711
+False Positive:  122
+Total:  1812
+Output:  833
+__________________________________________________
+Class:  Fashion accessory
+Precision:  0.6546222430783669
+Recall:  0.38419168273202975
+False Positive Rate:  0.007859721065333931
+True Positive:  1395
+False Positive:  736
+Total:  3631
+Output:  2131
+__________________________________________________
+Class:  Fast food
+Precision:  0.8445945945945946
+Recall:  0.11384335154826958
+False Positive Rate:  0.00023914738757473356
+True Positive:  125
+False Positive:  23
+Total:  1098
+Output:  148
+__________________________________________________
+Class:  Fish
+Precision:  0.7765726681127982
+Recall:  0.8774509803921569
+False Positive Rate:  0.0010633355701233677
+True Positive:  358
+False Positive:  103
+Total:  408
+Output:  461
+__________________________________________________
+Class:  Flower
+Precision:  0.9050943884147918
+Recall:  0.7769145394006659
+False Positive Rate:  0.003956105553639186
+True Positive:  3500
+False Positive:  367
+Total:  4505
+Output:  3867
+__________________________________________________
+Class:  Food
+Precision:  0.9311639549436797
+Recall:  0.5798908807482464
+False Positive Rate:  0.002387645022302775
+True Positive:  2976
+False Positive:  220
+Total:  5132
+Output:  3196
+__________________________________________________
+Class:  Footwear
+Precision:  0.6752136752136753
+Recall:  0.7333943514644351
+False Positive Rate:  0.030103207810320783
+True Positive:  5609
+False Positive:  2698
+Total:  7648
+Output:  8307
+__________________________________________________
+Class:  Fruit
+Precision:  0.8149532710280374
+Recall:  0.6478454680534919
+False Positive Rate:  0.0010248447204968944
+True Positive:  436
+False Positive:  99
+Total:  673
+Output:  535
+__________________________________________________
+Class:  Furniture
+Precision:  0.6617869762746088
+Recall:  0.708393371757925
+False Positive Rate:  0.02191428353375999
+True Positive:  3933
+False Positive:  2010
+Total:  5552
+Output:  5943
+__________________________________________________
+Class:  Hat
+Precision:  0.6318181818181818
+Recall:  0.6318181818181818
+False Positive Rate:  0.003361239924060876
+True Positive:  556
+False Positive:  324
+Total:  880
+Output:  880
+__________________________________________________
+Class:  Helmet
+Precision:  0.7336787564766839
+Recall:  0.806378132118451
+False Positive Rate:  0.0026661133876238396
+True Positive:  708
+False Positive:  257
+Total:  878
+Output:  965
+__________________________________________________
+Class:  Home appliance
+Precision:  0.6027397260273972
+Recall:  0.3682008368200837
+False Positive Rate:  0.0005977286312014345
+True Positive:  88
+False Positive:  58
+Total:  239
+Output:  146
+__________________________________________________
+Class:  Human body
+Precision:  0.7658016682113068
+Recall:  0.7615668202764977
+False Positive Rate:  0.06687573604329589
+True Positive:  16526
+False Positive:  5054
+Total:  21700
+Output:  21580
+__________________________________________________
+Class:  Insect
+Precision:  0.8685121107266436
+Recall:  0.6640211640211641
+False Positive Rate:  0.00118578308490831
+True Positive:  753
+False Positive:  114
+Total:  1134
+Output:  867
+__________________________________________________
+Class:  Invertebrate
+Precision:  0.8511705685618729
+Recall:  0.3723482077542063
+False Positive Rate:  0.000927991992158989
+True Positive:  509
+False Positive:  89
+Total:  1367
+Output:  598
+__________________________________________________
+Class:  Kitchen appliance
+Precision:  0.6575342465753424
+Recall:  0.5485714285714286
+False Positive Rate:  0.0005149436651630311
+True Positive:  96
+False Positive:  50
+Total:  175
+Output:  146
+__________________________________________________
+Class:  Kitchen utensil
+Precision:  0.5238095238095238
+Recall:  0.5882352941176471
+False Positive Rate:  0.0010300146262076921
+True Positive:  110
+False Positive:  100
+Total:  187
+Output:  210
+__________________________________________________
+Class:  Kitchenware
+Precision:  0.5414012738853503
+Recall:  0.15711645101663585
+False Positive Rate:  0.0014970215508727427
+True Positive:  170
+False Positive:  144
+Total:  1082
+Output:  314
+__________________________________________________
+Class:  Land vehicle
+Precision:  0.8944126704795424
+Recall:  0.8033985378383719
+False Positive Rate:  0.011015364138105128
+True Positive:  8132
+False Positive:  960
+Total:  10122
+Output:  9092
+__________________________________________________
+Class:  Luggage and bags
+Precision:  0.5705882352941176
+Recall:  0.47783251231527096
+False Positive Rate:  0.0007520346141959411
+True Positive:  97
+False Positive:  73
+Total:  203
+Output:  170
+__________________________________________________
+Class:  Mammal
+Precision:  0.8879408418657565
+Recall:  0.27063106796116504
+False Positive Rate:  0.0021528878203376863
+True Positive:  1561
+False Positive:  197
+Total:  5768
+Output:  1758
+__________________________________________________
+Class:  Marine invertebrates
+Precision:  0.8277777777777777
+Recall:  0.7680412371134021
+False Positive Rate:  0.00031932755796825266
+True Positive:  149
+False Positive:  31
+Total:  194
+Output:  180
+__________________________________________________
+Class:  Marine mammal
+Precision:  0.8128342245989305
+Recall:  0.7342995169082126
+False Positive Rate:  0.00036057939958378834
+True Positive:  152
+False Positive:  35
+Total:  207
+Output:  187
+__________________________________________________
+Class:  Medical equipment
+Precision:  0.6296296296296297
+Recall:  0.3333333333333333
+False Positive Rate:  0.00010285737795972105
+True Positive:  17
+False Positive:  10
+Total:  51
+Output:  27
+__________________________________________________
+Class:  Moths and butterflies
+Precision:  0.8611713665943601
+Recall:  0.8881431767337807
+False Positive Rate:  0.0006609794889802326
+True Positive:  397
+False Positive:  64
+Total:  447
+Output:  461
+__________________________________________________
+Class:  Musical instrument
+Precision:  0.8810032017075774
+Recall:  0.8436382217680123
+False Positive Rate:  0.0023395862184732888
+True Positive:  1651
+False Positive:  223
+Total:  1957
+Output:  1874
+__________________________________________________
+Class:  Office supplies
+Precision:  0.5391363022941971
+Recall:  0.6160370084811102
+False Positive Rate:  0.007116362423939318
+True Positive:  799
+False Positive:  683
+Total:  1297
+Output:  1482
+__________________________________________________
+Class:  Pastry
+Precision:  0.6721311475409836
+Recall:  0.40594059405940597
+False Positive Rate:  0.00020582060675914873
+True Positive:  41
+False Positive:  20
+Total:  101
+Output:  61
+__________________________________________________
+Class:  Person
+Precision:  0.9278665217027683
+Recall:  0.9532995360027496
+False Positive Rate:  0.06801916366002247
+True Positive:  44378
+False Positive:  3450
+Total:  46552
+Output:  47828
+__________________________________________________
+Class:  Personal care
+Precision:  0.7993447993447993
+Recall:  0.6596823251098344
+False Positive Rate:  0.005195411073647602
+True Positive:  1952
+False Positive:  490
+Total:  2959
+Output:  2442
+__________________________________________________
+Class:  Plant
+Precision:  0.8439925750928113
+Recall:  0.7825236642415708
+False Positive Rate:  0.0515709763342491
+True Positive:  20006
+False Positive:  3698
+Total:  25566
+Output:  23704
+__________________________________________________
+Class:  Plumbing fixture
+Precision:  0.8486486486486486
+Recall:  0.5688405797101449
+False Positive Rate:  0.0002886687217130427
+True Positive:  157
+False Positive:  28
+Total:  276
+Output:  185
+__________________________________________________
+Class:  Racket
+Precision:  0.8787878787878788
+Recall:  0.7981651376146789
+False Positive Rate:  0.00012350253180190194
+True Positive:  87
+False Positive:  12
+Total:  109
+Output:  99
+__________________________________________________
+Class:  Reptile
+Precision:  0.8448275862068966
+Recall:  0.7188264058679706
+False Positive Rate:  0.0005574826560951437
+True Positive:  294
+False Positive:  54
+Total:  409
+Output:  348
+__________________________________________________
+Class:  Sandwich
+Precision:  0.8333333333333334
+Recall:  0.6880733944954128
+False Positive Rate:  0.00015437816475237742
+True Positive:  75
+False Positive:  15
+Total:  109
+Output:  90
+__________________________________________________
+Class:  Sculpture
+Precision:  0.8313253012048193
+Recall:  0.7310513447432763
+False Positive Rate:  0.0018949253482706202
+True Positive:  897
+False Positive:  182
+Total:  1227
+Output:  1079
+__________________________________________________
+Class:  Shellfish
+Precision:  0.6194029850746269
+Recall:  0.6148148148148148
+False Positive Rate:  0.0005250262513125656
+True Positive:  83
+False Positive:  51
+Total:  135
+Output:  134
+__________________________________________________
+Class:  Skirt
+Precision:  0.44285714285714284
+Recall:  0.29245283018867924
+False Positive Rate:  0.00040137083577757883
+True Positive:  31
+False Positive:  39
+Total:  106
+Output:  70
+__________________________________________________
+Class:  Snack
+Precision:  0.7033492822966507
+Recall:  0.2752808988764045
+False Positive Rate:  0.000640899740538976
+True Positive:  147
+False Positive:  62
+Total:  534
+Output:  209
+__________________________________________________
+Class:  Sports equipment
+Precision:  0.8100750938673341
+Recall:  0.6562737642585551
+False Positive Rate:  0.006503943082461855
+True Positive:  2589
+False Positive:  607
+Total:  3945
+Output:  3196
+__________________________________________________
+Class:  Squash (Plant)
+Precision:  0.7835051546391752
+Recall:  0.7307692307692307
+False Positive Rate:  0.0002161183093373401
+True Positive:  76
+False Positive:  21
+Total:  104
+Output:  97
+__________________________________________________
+Class:  Table
+Precision:  0.5561139028475712
+Recall:  0.7078891257995735
+False Positive Rate:  0.016832699901544585
+True Positive:  1992
+False Positive:  1590
+Total:  2814
+Output:  3582
+__________________________________________________
+Class:  Tableware
+Precision:  0.6733001658374793
+Recall:  0.6250962278675904
+False Positive Rate:  0.0041052785129305856
+True Positive:  812
+False Positive:  394
+Total:  1299
+Output:  1206
+__________________________________________________
+Class:  Telephone
+Precision:  0.7331378299120235
+Recall:  0.7763975155279503
+False Positive Rate:  0.0009386184773751689
+True Positive:  250
+False Positive:  91
+Total:  322
+Output:  341
+__________________________________________________
+Class:  Tool
+Precision:  0.7014925373134329
+Recall:  0.6113821138211382
+False Positive Rate:  0.001655320821866788
+True Positive:  376
+False Positive:  160
+Total:  615
+Output:  536
+__________________________________________________
+Class:  Toy
+Precision:  0.8011049723756906
+Recall:  0.614406779661017
+False Positive Rate:  0.0022533565623793776
+True Positive:  870
+False Positive:  216
+Total:  1416
+Output:  1086
+__________________________________________________
+Class:  Traffic sign
+Precision:  0.6134453781512605
+Recall:  0.7724867724867724
+False Positive Rate:  0.0009476329776276214
+True Positive:  146
+False Positive:  92
+Total:  189
+Output:  238
+__________________________________________________
+Class:  Tree
+Precision:  0.8015415296717512
+Recall:  0.8352617389350707
+False Positive Rate:  0.046332532182360414
+True Positive:  14871
+False Positive:  3682
+Total:  17804
+Output:  18553
+__________________________________________________
+Class:  Trousers
+Precision:  0.5264211369095276
+Recall:  0.6244064577397911
+False Positive Rate:  0.012430779576954196
+True Positive:  1315
+False Positive:  1183
+Total:  2106
+Output:  2498
+__________________________________________________
+Class:  Turtle
+Precision:  0.78125
+Recall:  0.8333333333333334
+False Positive Rate:  0.00021608717574061307
+True Positive:  75
+False Positive:  21
+Total:  90
+Output:  96
+__________________________________________________
+Class:  Vegetable
+Precision:  0.7992047713717694
+Recall:  0.5622377622377622
+False Positive Rate:  0.0010460034383479359
+True Positive:  402
+False Positive:  101
+Total:  715
+Output:  503
+__________________________________________________
+Class:  Vehicle
+Precision:  0.7803521779425394
+Recall:  0.06363361547762998
+False Positive Rate:  0.002820052117418879
+True Positive:  842
+False Positive:  237
+Total:  13232
+Output:  1079
+__________________________________________________
+Class:  Watercraft
+Precision:  0.8243243243243243
+Recall:  0.8536443148688047
+False Positive Rate:  0.0032650327549760354
+True Positive:  1464
+False Positive:  312
+Total:  1715
+Output:  1776
+__________________________________________________
+Class:  Weapon
+Precision:  0.713527851458886
+Recall:  0.6529126213592233
+False Positive Rate:  0.0011149998451389104
+True Positive:  269
+False Positive:  108
+Total:  412
+Output:  377
+__________________________________________________
+Average Precision Any:  0.7440927863739271
+Average Recall Any:  0.6198374901123619
+Average False Positive Rate:  0.008088795528032785

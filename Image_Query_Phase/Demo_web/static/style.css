@@ -1,0 +1,130 @@
+/* Custom styles with purple theme */
+
+:root {
+    --primary: #8889CC;
+    --primary-dark: #6667aa;
+    --primary-light: #a9aae0;
+    --primary-very-light: #e8e8f5;
+    --text-on-primary: #ffffff;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+/* Override Bootstrap primary color */
+.bg-primary {
+    background-color: var(--primary) !important;
+}
+
+.text-primary {
+    color: var(--primary) !important;
+}
+
+.btn-primary {
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    background-color: var(--primary-dark) !important;
+    border-color: var(--primary-dark) !important;
+}
+
+.btn-outline-primary {
+    color: var(--primary);
+    border-color: var(--primary);
+}
+
+.btn-outline-primary:hover {
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+/* Progress bar color */
+.progress-bar {
+    background-color: var(--primary);
+}
+
+/* Custom transitions and hover effects */
+.hover-scale {
+    transition: transform 0.3s ease;
+}
+
+.hover-scale:hover {
+    transform: scale(1.03);
+}
+
+/* Custom class badge styling */
+.class-badge {
+    border-left: 3px solid var(--primary);
+    background-color: var(--primary-very-light);
+    color: #495057;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 14px;
+}
+
+.class-badge:hover {
+    background-color: var(--primary-light);
+    color: var(--text-on-primary);
+}
+
+/* Badge color override */
+.badge .text-primary {
+    color: var(--primary) !important;
+}
+
+/* Custom count badge styling */
+.count-badge {
+    background-color: var(--primary);
+    color: white;
+    border-radius: 50%;
+    padding: 2px 6px;
+    font-size: 12px;
+    margin-left: 6px;
+}
+
+/* Custom image styling for similar images */
+.similar-img {
+    height: 180px;
+    object-fit: cover;
+}
+
+/* Custom styling for eliminated classes */
+.eliminated-class {
+    text-decoration: line-through;
+    opacity: 0.7;
+}
+
+/* Purple-themed spinner */
+.spinner-border.text-primary,
+.spinner-grow.text-primary {
+    color: var(--primary) !important;
+}
+
+/* Brand text */
+.brand-text {
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+/* Custom card styling */
+.card-header.bg-light {
+    background-color: var(--primary-very-light) !important;
+    border-bottom: 1px solid var(--primary-light);
+}
+
+/* Make alerts match the theme */
+.alert-primary {
+    background-color: var(--primary-very-light);
+    border-color: var(--primary-light);
+    color: var(--primary-dark);
+}
+
+/* Add a purple gradient background */
+.bg-purple-gradient {
+    background: linear-gradient(135deg, #6667aa 0%, #8889CC 50%, #a9aae0 100%);
+}
